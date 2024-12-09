@@ -1,5 +1,5 @@
 # PuzzleTimeDay4
-# Graphic-Intensive Alien Citadel 🏰
+# Graphic-Intensive Alien Citadel 
 
 Welcome to the Graphic-Intensive Alien Citadel — a mind-bending, multi-threaded, recursive GUI challenge designed to push your problem-solving skills to the limit.
 
@@ -18,10 +18,11 @@ Do it with just one line of code.
 # Visual Indicators
 
 Status	Color	Description
-🟢 Green	New thread has just spawned.	
-🟡 Yellow	Thread is actively running.	
-🔴 Red	Safeguard has been triggered.	
-⚫️ Gray	Thread has completed successfully.	
+Green	New thread has just spawned.	
+Yellow	Thread is actively running.	
+Red	Safeguard has been triggered.	
+Gray	Thread has completed successfully.	
+
 Each thread is represented as a circle, and each has a Thread ID displayed in its center.
 You will see them spawn, move, and collide as recursion unfolds.
 
